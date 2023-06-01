@@ -1,0 +1,9 @@
+{
+    "company": "JWMMS-01",
+    "host": "http://localhost:8000/api/method/",
+    "opera_folder": "/home/caratred/Documents/cloud_watcher/First_folder/",
+    "second_folder": "/home/caratred/Documents/cloud_watcher/First_folder/Invoices/",
+    "api_key": "c323fac55d73f50",
+    "api_secret": "5a9f2d7bd5d2c3d",
+    "pattern":"pdf"
+}

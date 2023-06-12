@@ -1,0 +1,9 @@
+{
+    "company_code": "LAMAN-01",
+    "host": "http://tlm.ezyinvoicing.com:8008/api/method/",
+    "api_key": "97f3fe83eefaa7c",
+    "api_secret": "7c9ef0d88b0a72d",
+    "files_folder":"D:/invoices"
+    
+}
+

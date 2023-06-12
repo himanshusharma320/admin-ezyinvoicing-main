@@ -1,0 +1,9 @@
+{
+    "company": "WMGC-01",
+    "host": "http://localhost:8000/api/method/",
+    "opera_folder": "/home/frappe/temp_watcher/",
+    "second_folder": "/home/frappe/temp_watcher/Ezy-invoices/",
+    "api_key":"1327a7d458f7f9d",
+    "api_secret":"06782776cbfc67f",
+    "pattern":"india_gstfolio_header"
+}
